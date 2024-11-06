@@ -4,10 +4,10 @@
     --white: #fff;
     --dark1: #34344e;
     --dark2: #3a415a;
-    --dark3: #566981;
+    --dark3: #fb8eff;
     --dark4: #89a7b1;
     --dark5: #cbdad5;
-    --cyan1: #70e3ea;
+    --cyan1: #fffb00;
 }
 
 *{
@@ -55,7 +55,7 @@ header{
 
 .img-logo{
     height: 100%;
-    max-height: 60px;
+    max-height: 50px;
 }
 
 nav{
@@ -182,7 +182,7 @@ strong{
 }
 
 .second-section p{
-    color: var(--dark4);
+    color: var(--dark3);
     font-weight: bold;
     letter-spacing: 2px;
 }
